@@ -13,5 +13,5 @@ if (quater >= 1 && quater <= 4) {
     Console.WriteLine(quarters[quater-1]);
 }
 else {
-    Console.WriteLine("Такой четверти нет.")
+    Console.WriteLine("Такой четверти нет.");
 }
